@@ -17,10 +17,13 @@
 ## 🖼️ Prévia do Projeto
 
 ### 💻 Visualização Desktop
+![Desktop](https://github.com/CarlosRocha-98/The_Real_Score/blob/main/Desktop.png)
 
 ### 🔳 Visualização Tablet
+![Tablet](https://github.com/CarlosRocha-98/The_Real_Score/blob/main/Tablet.png)
 
 ### 📱 Visualização Mobile
+![Mobile](https://github.com/CarlosRocha-98/The_Real_Score/blob/main/Mobile.png)
 
 > 💡 As imagens acima mostram a responsividade e o design do projeto em diferentes dispositivos.
 
@@ -47,5 +50,5 @@
   </tr>
 </table>
 
-<a href="">Acesse o site aqui</a>
+<a href="https://the-real-score.vercel.app/">Acesse o site aqui</a>
 
