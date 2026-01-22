@@ -14,7 +14,8 @@
 ## 🧩 Tecnologias Utilizadas
 
 - 🌐 **HTML5** → Estrutura da página.
-- 🎨 **CSS3** → Estilo, layout responsivo (Media Queries) e design visual. 
+- 🎨 **CSS3** → Estilo, layout responsivo (Media Queries) e design visual.
+- ⚙️ JavaScript — Implementação da lógica da aplicação, interatividade e manipulação do DOM.
 
 ---
 
