@@ -1,5 +1,9 @@
 # TCC Informática para Internet - ETEC Trajano Camargo 2023
 
+![Status](https://img.shields.io/badge/status-online-success)
+![Versão](https://img.shields.io/badge/versão-1.0-blue)
+![Tecnologias](https://img.shields.io/badge/feito%20com-HTML%20%26%20CSS%20%26%20JavaScript-orange)
+
 ## 📝 Descrição
 
 ## Projeto de pesquisa sobre os critérios de avaliação e sua credibiliadade no ranqueamento de jogos, visando avaliações mais fiéis, a real experiência do jogador e sua jogabilidade. ##
