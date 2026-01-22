@@ -1,5 +1,7 @@
 # TCC Informática para Internet - ETEC Trajano Camargo 2023
 
+# 🌍 The Real Score
+
 ![Status](https://img.shields.io/badge/status-online-success)
 ![Versão](https://img.shields.io/badge/versão-1.0-blue)
 ![Tecnologias](https://img.shields.io/badge/feito%20com-HTML%20%26%20CSS%20%26%20JavaScript-orange)
